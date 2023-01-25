@@ -1,13 +1,13 @@
 # Reading-UCR_Catalog-PDF
 
 PDF Search: <br>
-This script allows you to search for keywords in the UCR Catalog PDF document and returns the text after the keyword, along with the page number it was found on. 
+This script allows you to search for IDs in the UCR Catalog PDF document and returns the text after the IDs, along with the page number it was found on. 
 This script uses the PyPDF2 library to read the PDF document. 
 
 Usage: <br>
 1. Install the PyPDF2 library by running pip install PyPDF2 <br>
 2. Run the script using python main.py <br>
-3. Enter the keyword you want to search for when prompted. <br>
+3. Enter the ID you want to search for when prompted. <br>
 4. The script will return the text following the keyword and the page number it was found on. <br>
 5. To exit the script, enter "quit" when prompted for a keyword. <br>
 
