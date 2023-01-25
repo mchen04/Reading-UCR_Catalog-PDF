@@ -10,7 +10,7 @@ print ("UCR Class Catalog has",pages, "pages.")
 while 1 :
     print ('Input "quit" to exit')
     print ('Format EX: [AHS 180]')
-    search = input('Searching Class: ')
+    search = input('Searching Keyword: ')
 
     if search == "quit" :
         exit() 
@@ -33,7 +33,7 @@ while 1 :
                     period_count += 1
                 extracted_text += after_word[i]
                 i += 1
-            results.append(f"{search}\n\t{extracted_text} Found on page {page_num + 1}\n")
+            results.append(f"{search}\n{extracted_text} Found on page {page_num + 1}\n")
 
     results = [word.replace('\n', '') for word in results]
     results = [word.replace('.', '\n\t') for word in results]
@@ -42,6 +42,7 @@ while 1 :
 
     for element in results:
         if search_string in element:
+            print ("Output Format: ID, Course Name, Credit Amount, General Info, Prerequisites, Page#")
             print(element, "\n")
 
 
