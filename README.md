@@ -8,7 +8,7 @@ Usage: <br>
 1. Install the PyPDF2 library by running pip install PyPDF2 <br>
 2. Run the script using python main.py <br>
 3. Enter the ID you want to search for when prompted. <br>
-4. The script will return the text following the keyword and the page number it was found on. <br>
+4. The script will return information found on the ID. <br>
 5. To exit the script, enter "quit" when prompted for a keyword. <br>
 
 Note: <br>
