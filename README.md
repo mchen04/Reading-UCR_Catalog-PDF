@@ -18,4 +18,4 @@ Limitations: <br>
 Currently, this script can only search for one keyword at a time and cannot search for multiple keywords at once. Additionally, it is limited to the UCR Catalog.
 
 ### Video Demo:
-![PDF Scrapper Demo](PDFSCRAPPER_DEMO.mp4 "PDF Scrapper Demo")
+[![PDF Scrapper Demo](https://img.youtube.com/vi/BoxQrnYR8Ls/0.jpg)](https://youtu.be/BoxQrnYR8Ls "PDF Scrapper Demo")
