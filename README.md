@@ -17,5 +17,7 @@ The script will display the output in the format "ID, Course Name, Credit Amount
 Limitations: <br>
 Currently, this script can only search for one keyword at a time and cannot search for multiple keywords at once. Additionally, it is limited to the UCR Catalog.
 
-### Video Demo:
-[![PDF Scrapper Demo](https://img.youtube.com/vi/BoxQrnYR8Ls/0.jpg)]([https://youtu.be/BoxQrnYR8Ls] "PDF Scrapper Demo")
+## **Video Demo**
+Watch a quick demo of how the script works:
+
+[![PDF Search Demo](https://img.youtube.com/vi/yrY0VnYN7BE/0.jpg)](https://www.youtube.com/watch?v=yrY0VnYN7BE "PDF Search Demo")
